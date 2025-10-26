@@ -1,0 +1,3 @@
+# LogiX 
+
+OOP project program
